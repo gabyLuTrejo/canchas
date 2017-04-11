@@ -1,0 +1,124 @@
+h1 {
+  text-align: center;
+}
+.contenedor {
+  width: 600px;
+  height: 404px;
+  border: 1px solid #FFF;
+  background-color: green;
+  float: left;
+  margin-left: 350px;
+}
+.rec1 {
+   width: 300px;
+   height: 50px;
+   border: 1px solid #FFF;
+   background: green;
+   float: left;
+}
+.rec2{
+     width: 296px;
+     height: 50px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+}
+.rec3 {
+     width: 119px;
+     height: 300px;
+     border: 1px solid #FFF;
+     background: green;
+     float: left;
+}
+.rec4 {
+     width: 115px;
+     height: 300px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+}
+.rec5 {
+     width: 179px;
+     height: 150px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+}
+.rec6 {
+     width: 179px;
+     height: 150px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+}
+.rec7 {
+     width: 179px;
+     height: 148px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
+.rec8 {
+     width: 179px;
+     height: 148px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
+.rec9 {
+     width: 300px;
+     height: 50px;
+     border: 1px solid #FFF;
+     background: green;
+     float: left;
+}
+.rec10 {
+     width: 296px;
+     height: 50px;
+     border: 1px solid #FFF;
+     background: green;
+     float: right;
+     margin: 0 auto;
+}
+
+#irFutbol{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #EAE7AF;
+  border-style: double;
+  border-color: black;
+  text-align: center;
+  font-size: 21px;
+  margin-left: 620px;
+  margin-top: 410px;
+}
+
+#irBasket{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #B43104;
+  border-style: dotted;
+  border-color: black;
+  text-align: center;
+  font-size: 21px;
+  color: white;
+  margin-top: -110px;
+  margin-left: 830px;
+}
+
+#irInicio {
+  width: 0px;
+  height: 70px;
+  border-left: 50px solid #D9534F;
+  border-right: 50px solid #D9534F;
+  border-bottom: 35px solid transparent;
+  border-style: groove;
+  font-size: 21px;
+  color: white;
+  margin-left: 390px;
+  margin-top: -100px;
+}

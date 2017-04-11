@@ -1,0 +1,54 @@
+img{
+  width: 500px;
+  height: 300px;
+  margin-left: 440px;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  font-size: 21px;
+  text-align: center;
+}
+
+#irFutbol{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #EAE7AF;
+  border-style: double;
+  border-color: black;
+  text-align: center;
+  font-size: 21px;
+  margin-left: 390px;
+  margin-top: 10px;
+}
+
+#irBasket{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #B43104;
+  border-style: dotted;
+  border-color: black;
+  text-align: center;
+  font-size: 21px;
+  color: white;
+  margin-left: 620px;
+  margin-top: -108px;
+}
+
+#irTenis{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #58FA58;
+  border-style: dotted;
+  border-color: white;
+  text-align: center;
+  font-size: 21px;
+  margin-top: -70px;
+  margin-left: 830px;
+}
