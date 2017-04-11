@@ -4,6 +4,14 @@ img{
   margin-left: 440px;
 }
 
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
 h1{
   text-align: center;
 }
